@@ -12,3 +12,4 @@ F:\1.Dev\cs\learning1\obj\Debug\net9.0\refint\learning1.dll
 F:\1.Dev\cs\learning1\obj\Debug\net9.0\learning1.pdb
 F:\1.Dev\cs\learning1\obj\Debug\net9.0\learning1.genruntimeconfig.cache
 F:\1.Dev\cs\learning1\obj\Debug\net9.0\ref\learning1.dll
+F:\1.Dev\cs\learning1\obj\Debug\net9.0\learning1.sourcelink.json
